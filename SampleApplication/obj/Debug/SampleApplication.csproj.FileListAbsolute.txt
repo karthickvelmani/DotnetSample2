@@ -1,0 +1,124 @@
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\ApplicationInsights.config
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\csc.exe
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\csc.exe.config
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\csc.rsp
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\csi.exe
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\csi.rsp
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\System.AppContext.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\System.IO.FileSystem.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\vbc.exe
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\vbc.exe.config
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\vbc.rsp
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\SampleApplication.dll.config
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\SampleApplication.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\SampleApplication.pdb
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Antlr3.Runtime.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.Web.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Newtonsoft.Json.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\System.Web.Optimization.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\WebGrease.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\System.Web.Optimization.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Antlr3.Runtime.pdb
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Newtonsoft.Json.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\bin\Microsoft.AI.Web.xml
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
+c:\users\kart2372\documents\visual studio 2017\Projects\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\ApplicationInsights.config
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\csc.exe
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\csc.exe.config
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\csc.rsp
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\csi.exe
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\csi.rsp
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\System.AppContext.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\vbc.exe
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\vbc.exe.config
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\vbc.rsp
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\VBCSCompiler.exe
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\SampleApplication.dll.config
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\SampleApplication.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\SampleApplication.pdb
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Antlr3.Runtime.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\AspNet.ScriptManager.bootstrap.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\AspNet.ScriptManager.jQuery.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.Agent.Intercept.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.DependencyCollector.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.Web.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.WindowsServer.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.ApplicationInsights.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.ScriptManager.WebForms.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Newtonsoft.Json.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\System.Web.Optimization.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\WebGrease.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\System.Web.Optimization.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Antlr3.Runtime.pdb
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Newtonsoft.Json.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.ApplicationInsights.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.DependencyCollector.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.WindowsServer.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\bin\Microsoft.AI.Web.xml
+D:\karthi\karthi\SampleApplication\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
+D:\karthi\karthi\SampleApplication\SampleApplication\obj\Debug\SampleApplication.dll
+D:\karthi\karthi\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
